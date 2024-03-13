@@ -1,0 +1,22 @@
+{
+  "name": "js",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/d-sprn/js.git"
+  },
+  "keywords": [
+    "js"
+  ],
+  "author": "d.sprn",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/d-sprn/js/issues"
+  },
+  "homepage": "https://github.com/d-sprn/js#readme"
+}
