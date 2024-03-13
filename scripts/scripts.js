@@ -23,6 +23,8 @@ for (let i = 0; i < 2; i++) {
     }
 }
 
+
+
 if (personalMovieDB.count < 10) {
     console.log("Просмотрено довольно мало фильмов");
 } else if (personalMovieDB.count >= 10 && personalMovieDB.count < 30) {
