@@ -18,7 +18,7 @@ for (let i = 0; i < 2; i++) {
         personalMovieDB.movies[a] = b;
         console.log('done');
     } else {
-        console.log('error')
+        console.log('error');
         i--;
     }
 }
